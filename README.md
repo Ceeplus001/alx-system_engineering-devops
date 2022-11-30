@@ -1,1 +1,1 @@
-create script
+Script writing in Shell
